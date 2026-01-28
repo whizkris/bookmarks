@@ -18,13 +18,17 @@ Practical, high-signal, and regularly updated.
 
 ## Coding
 - **Prettier** – Makes your code pretty
-- https://prettier.io/playground
+  https://prettier.io/playground
 
 ## AI
 - **Wan AI** – Generate free Unlimited AI Videos
   https://create.wan.video/generate
 - **LM Arena** - Generate Unlimited AI Images
-- https://lmarena.ai/c/new?chat-modality=image
+  https://lmarena.ai/c/new?chat-modality=image
+
+  ## File Management
+  -**Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow. 
+  https://app.unifidrive.com/
 ---
 
 _Last updated: Jan 2026_
