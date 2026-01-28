@@ -26,8 +26,8 @@ Practical, high-signal, and regularly updated.
 - **LM Arena** - Generate Unlimited AI Images
   https://lmarena.ai/c/new?chat-modality=image
 
-  ## File Management
-  -**Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow. 
+## File Management
+- **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow. 
   https://app.unifidrive.com/
 ---
 
