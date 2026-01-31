@@ -25,6 +25,8 @@ Practical, high-signal, and regularly updated.
   https://create.wan.video/generate
 - **LM Arena** - Generate Unlimited AI Images
   https://lmarena.ai/c/new?chat-modality=image
+  **Watermark Remover** - AI watermark remover, the one created with Gemini
+  https://banana.ovo.re/
 
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow. 
