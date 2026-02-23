@@ -15,10 +15,13 @@ Practical, high-signal, and regularly updated.
   https://audiomass.co/
 - **EZ Remove** - AI Watermark remove from any video (No Signup)
   https://ezremove.ai/video-watermark-remover/
+  **Passport Pic** - Online Passport Pic maker
+  https://online-passport-photo.com/get
 
 ## Coding
 - **Prettier** – Makes your code pretty
   https://prettier.io/playground
+
 
 ## AI
 - **Wan AI** – Generate free Unlimited AI Videos
@@ -27,18 +30,22 @@ Practical, high-signal, and regularly updated.
   https://lmarena.ai/c/new?chat-modality=image
 - **Watermark Remover** - AI watermark remover, the one created with Gemini
   https://banana.ovo.re/
+- **Image Gen** - Lightning fast image generator. One of the first
+  https://fast-flux-demo.replicate.workers.dev/
 
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
   https://app.unifidrive.com/
 
 ## Games
-- **Archive of Games** - All Impression Games ISO including Pharaoh
+- **Archive of Games** - All Impression Games ISO including Pharaoh.
   https://archive.org/search?query=creator%3A%22Impressions+Games%22&page=2
 
 ## API
 - **Deck of Cards** - An API to provide random cards, and create cards decks. Useful for creating card games
   https://deckofcardsapi.com/
+- **Public API** - For all testing
+  https://github.com/public-apis/public-apis?tab=readme-ov-file#email
 ---
 
 _Last updated: Jan 2026_
