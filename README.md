@@ -30,8 +30,11 @@ Practical, high-signal, and regularly updated.
 
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
-- https://app.unifidrive.com/
-- 
+  https://app.unifidrive.com/
+
+## API
+- **Deck of Cards** - An API to provide random cards, and create cards decks. Useful for creating card games
+  https://deckofcardsapi.com/
 ---
 
 _Last updated: Jan 2026_
