@@ -46,6 +46,10 @@ Practical, high-signal, and regularly updated.
   https://deckofcardsapi.com/
 - **Public API** - For all testing
   https://github.com/public-apis/public-apis?tab=readme-ov-file#email
+
+## Fonts
+- **Sans Forgetica** - Font used so that you don't forget what you read
+  https://www.1001fonts.com/sans-forgetica-font.html
 ---
 
 _Last updated: Jan 2026_
