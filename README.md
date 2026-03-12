@@ -32,6 +32,8 @@ Practical, high-signal, and regularly updated.
   https://banana.ovo.re/
 - **Image Gen** - Lightning fast image generator. One of the first
   https://fast-flux-demo.replicate.workers.dev/
+- **Image Prompts** - Collection of some nice photo prompts
+  https://imagepromptly.com/
 
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
