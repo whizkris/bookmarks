@@ -15,8 +15,10 @@ Practical, high-signal, and regularly updated.
   https://audiomass.co/
 - **EZ Remove** - AI Watermark remove from any video (No Signup)
   https://ezremove.ai/video-watermark-remover/
-  **Passport Pic** - Online Passport Pic maker
+-  **Passport Pic** - Online Passport Pic maker
   https://online-passport-photo.com/get
+- **Gemini Watermark Remover** - Remove the gemini star from generated images
+  https://pilio.ai/gemini-watermark-remover 
 
 ## Coding
 - **Prettier** – Makes your code pretty
