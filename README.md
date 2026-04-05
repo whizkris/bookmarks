@@ -36,6 +36,8 @@ Practical, high-signal, and regularly updated.
   https://fast-flux-demo.replicate.workers.dev/
 - **Image Prompts** - Collection of some nice photo prompts
   https://imagepromptly.com/
+- **Image to Text Converter** - Convert any document including screenshots and handwritten to text
+  https://imagetotext.online
 
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
