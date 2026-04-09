@@ -38,6 +38,8 @@ Practical, high-signal, and regularly updated.
   https://imagepromptly.com/
 - **Image to Text Converter** - Convert any document including screenshots and handwritten to text
   https://imagetotext.online
+- **Local Mind** - Run Complete AI models from Browser
+  https://naklitechie.github.io/LocalMind
 
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
