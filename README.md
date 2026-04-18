@@ -42,6 +42,8 @@ Practical, high-signal, and regularly updated.
   https://naklitechie.github.io/LocalMind
 - **Free LLM API** - A list of all free LLM API
   https://github.com/cheahjs/free-llm-api-resources
+- **Venice AI** - Uncensored AI Chat bot
+  https://venice.ai/chat 
 
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
