@@ -44,7 +44,9 @@ Practical, high-signal, and regularly updated.
   https://github.com/cheahjs/free-llm-api-resources
 - **Venice AI** - Uncensored AI Chat bot
   https://venice.ai/chat 
-
+- **Merge Images** - Merge Two images and overlapp them
+  https://overchat.ai/web/ai-image-combiner/
+  
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
   https://app.unifidrive.com/
