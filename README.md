@@ -18,7 +18,9 @@ Practical, high-signal, and regularly updated.
 -  **Passport Pic** - Online Passport Pic maker
   https://online-passport-photo.com/get
 - **Gemini Watermark Remover** - Remove the gemini star from generated images
-  https://pilio.ai/gemini-watermark-remover 
+  https://pilio.ai/gemini-watermark-remover
+- **HEIC File View** - Enable HEIC codec image view in Windows Explorer
+  https://github.com/prsyahmi/wic_heic
 
 ## Coding
 - **Prettier** – Makes your code pretty
