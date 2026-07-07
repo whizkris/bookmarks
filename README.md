@@ -64,6 +64,11 @@ Practical, high-signal, and regularly updated.
 ## Fonts
 - **Sans Forgetica** - Font used so that you don't forget what you read
   https://www.1001fonts.com/sans-forgetica-font.html
+
+## Others
+- **Sanjay Patel Art** - Different cartoon style art form of Indian Gods & Goddess
+  https://in.pinterest.com/pin/180918110015919789/feedback/?invite_code=36e8be29abae4cc8a98b647d2eeb2c79&sender_id=357403057836844427
+
 ---
 
 _Last updated: Jan 2026_
