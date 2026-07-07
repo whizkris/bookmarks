@@ -21,6 +21,8 @@ Practical, high-signal, and regularly updated.
   https://pilio.ai/gemini-watermark-remover
 - **HEIC File View** - Enable HEIC codec image view in Windows Explorer
   https://github.com/prsyahmi/wic_heic
+- **Squoosh App** - Insane image compressor uses MozJPG and also does webp
+  https://squoosh.app/
 
 ## Coding
 - **Prettier** – Makes your code pretty
