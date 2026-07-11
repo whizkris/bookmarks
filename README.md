@@ -23,6 +23,10 @@ Practical, high-signal, and regularly updated.
   https://github.com/prsyahmi/wic_heic
 - **Squoosh App** - Insane image compressor uses MozJPG and also does webp
   https://squoosh.app/
+- **Faceswapper** - Simple face swapper
+  https://ss86910-faceswaper.hf.space/
+- **Face Swap AI** - No signup face swapper
+  https://aifaceswap.io/#face-swap-playground
 
 ## Coding
 - **Prettier** – Makes your code pretty
