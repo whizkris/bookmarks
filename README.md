@@ -51,7 +51,9 @@ Practical, high-signal, and regularly updated.
 - **Free LLM API** - A list of all free LLM API
   https://github.com/cheahjs/free-llm-api-resources
 - **Venice AI** - Uncensored AI Chat bot
-  https://venice.ai/chat 
+  https://venice.ai/chat
+- **ZSky AI** - Unlimited Video generation
+  https://zsky.ai/
   
 ## File Management
 - **Unifi Drive** - See all of Onedrive, GDrive in one place, integrates and helps copy between sites too. But slow.
